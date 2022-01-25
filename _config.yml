@@ -15,10 +15,10 @@ author:
     The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
     meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
 #  username: username # general username
-#  github: github_username # github username
+ github: loopsocial # github username
 #  twitter: twitter_username # twitter username
 #  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  email: ops@loopapps.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
