@@ -33,6 +33,7 @@ github_username:  jekyll
 # Build settings
 remote_theme: piharpi/jekyll-klise
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
