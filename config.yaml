@@ -1,8 +1,8 @@
-baseurl: https://example.com
+baseurl: https://loopsocial.github.io/engineering_blog
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Firework Engineering Blog
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
