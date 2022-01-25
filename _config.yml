@@ -24,7 +24,7 @@ author:
 
 # URL settings
 url: "https://loopsocial.github.io" #
-baseurl:
+baseurl: "/engineering_blog"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
