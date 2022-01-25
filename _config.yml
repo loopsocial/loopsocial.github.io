@@ -22,8 +22,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://loopsocial.github.io"
-baseurl: "/engineering_blog"
+url: https://loopsocial.github.io
+baseurl: /engineering_blog
 permalink: /:title/
 google_analytics:
 fb_appid:
