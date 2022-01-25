@@ -1,9 +1,5 @@
-# Generated files by hugo
-/public/
-/resources/_gen/
-
-# Executable may be added to repository
-hugo.exe
-hugo.darwin
-hugo.linux
-
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
