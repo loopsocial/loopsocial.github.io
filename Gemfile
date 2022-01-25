@@ -19,7 +19,7 @@ gem "github-pages", "~> 223", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.15.1'
-  gem 'jekyll-sitemap', '~> 1.4'
+  gem 'jekyll-sitemap', '~> 1.4.0'
   gem 'jekyll-compose', '~> 0.12.0'
   gem 'jekyll-postfiles', '~> 3.1'
 end
