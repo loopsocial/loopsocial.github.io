@@ -9,5 +9,4 @@ Here you can find all the latest updates on Firework's opensource projects and t
 
 #### Contact
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+[{{ site.author.email }}](mailto:{{ site.author.email }})
