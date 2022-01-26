@@ -7,6 +7,4 @@ comments: false
 
 Here you can find all the latest updates on Firework's opensource projects and topics that are important to our organization.
 
-#### Contact
-
-[{{ site.author.email }}](mailto:{{ site.author.email }})
+Interested in joining us? [{{ site.author.email }}](mailto:{{ site.author.email }})
