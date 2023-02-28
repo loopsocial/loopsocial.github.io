@@ -1,10 +1,8 @@
-
-
 ---
 layout: post
 title:  "A look into routing traffic into your umbrella and a deep-dive into the PhoenixReverseProxy"
 date:   2022-02-17 01:23:45 +0500
-categories: reverse proxy umbrella
+categories: reverse-proxy umbrella
 ---
 
 # Problem
